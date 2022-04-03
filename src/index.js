@@ -1,1 +1,1 @@
-console.log('zbestpc init')
+console.log('zbestpc init test')
